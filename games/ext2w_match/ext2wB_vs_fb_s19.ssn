@@ -1,0 +1,32 @@
+[Event "selfplay"]
+[Date "2026.11.01"]
+[White "goal-sel-run-fb-b8-t120"]
+[Black "goal-sel-run-geo-cover-timed-ext2w-b8-t120"]
+[Seed "19"]
+[Result "*"]
+[EpisodeScore "0-0"]
+
+L. W 1f10 2c8 3i8 4f4
+L. B 1f12 2i12 3c12 4f16
+1. W 2d9 3h9 4f5 >f7
+2. B 3b11 2h13
+3. W 2d11 3h11 1e11 4e7
+4. B 3a9 2g14 1e13 4f15
+5. W 2d13 3g13 1c13 4d8
+6. B 3a7 1e15 2f14
+7. W 4d10 2c15 1b15 3g15
+8. B 3b7 4g16 1f17 2f15
+9. W 4e12 2c17 3h16 >c14
+10. B 2e17 1f19 3b8 4g17
+11. W 4e14 >d14 2d19 3h17 1c16
+12. B 3a10
+13. W 1c18 4d15 >c17 3g18
+14. B 2d18 1e19
+15. W 3f18 1c19 >d16{ok}
+16. B 4f17 3b11 2c18 | {int W4}
+17. W 4e14 >d17 2d18 1b19 3d17
+18. B 2c19 1e18 4e16 4x{loose d15} 3c13
+19. W 1a19 3d15 4g14 >f14
+20. B 1f17 2d19
+21. W >b17{defl B4 c15} 3c14 2c17
+22. B 3b14 4d16

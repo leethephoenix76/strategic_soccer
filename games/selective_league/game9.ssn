@@ -1,0 +1,49 @@
+[Seed "1792916423"]
+[Event "game"]
+[Date "2026.10.25"]
+[White "human"]
+[Black "goal-sel-run-ep-b8-t120"]
+[Result "*"]
+
+L. W 1f10 2c10 3i10 4f6
+L. B 1f12 2i12 3c12 4f16
+1. W >f8 1f11 2d11 3h11 4f7
+2. B 2h13
+3. W 1e12 2d13 4e8 3f13
+4. B 1e11
+5. W 3e15 2d15 4d10 >d14 1e14
+6. B 4e17 3c13 2g14 1e9 | {int W2}
+7. W 2e16 1f15 3d15
+8. B 1f9 2g16 4e18 3c15
+9. W 4e9 1h15 3d16 2f18 #{goal}
+; goal W, 1-0
+L. B 1f10 2i12 3c12 4f16
+L. W 1f8 2c8 3i8 4f4
+10. B 2h11 3d11 4f15 >f13 1e9
+11. W 2d8 1e7 3h8 4f5
+12. B 4g13 3f9 2h9 1e8
+13. W 3h7 4g6 1e6 2e7
+14. B 3f7 1d7 2i7 4h11
+15. W 1f4 2e5 3h5 4i6
+16. B 3g6 1d5 2j6 4h9 >e6{ok}
+17. W 2d4 4i5 1g4 | {defl B1 d3}
+18. B 2j4 1c4 4g8
+19. W 3h6 2d3 1h5 4i4 >g4
+20. B 4g7
+21. W 3h8 1i7 >i6
+22. B 1d5 2i5 4h6 3h7
+23. W 1i9 3g10 >g12{ok}
+24. B 3h9
+25. W 3f12 1h11
+26. B 3g11
+27. W 3f14 1g12
+28. B 3e13 1e6 2i6 4g7
+29. W 3f15 1e14 >f17
+30. B 3c15 1f8 2h8 4g9
+31. W 1d16 3f17
+32. B 1f10 2h10 4g11 3c17
+33. W 1d18 3f18
+34. B 1f12 2h12 4g13 3d17
+35. W 1e18 3f19 #{goal}
+; goal W, 2-0
+L. B 1f10 2i12 3c12 4f16

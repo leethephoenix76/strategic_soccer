@@ -1,0 +1,126 @@
+[Seed "1792592008"]
+[Event "game"]
+[Date "2026.10.22"]
+[White "human"]
+[Black "goal-sel-b8-t60"]
+[Result "*"]
+
+L. W 1f10 2c10 3i10 4f6
+L. B 1f12 2i12 3c12 4f16
+1. W 4f7 >f8 1f11 2d11 3h11
+2. B 2i11 3b13 4e17 1f13
+3. W 1g13 3h13 2e13 4g7
+4. B 2h10 4e19
+5. W 2f15 1g14 4i8 >i12 3i15
+6. B 1e14 2g10 3a14
+7. W 2f17 1g16 3i16
+8. B 4f18 1d14 2g11
+9. W 1g18 3j16 >h18 4h8
+10. B 1c13 2g13 3b15 | {ok}
+; the keeper of B took the ball
+L. B 1f10 2i12 3c12 4f16
+L. W 1f8 2c7 3i7 4f5
+11. B 3d11 2h11 4f15 >d5{ok} 1e9
+12. W 1e8 2d8 4e5 3h8
+13. B 1c9 2f11 3d10 4e15
+14. W 2d9 1c8 4c6
+; ball out by B, W restarts
+L. W 1f10 2c10 3i10 4f6
+L. B 1f12 2i12 3c12 4f16
+15. W --
+16. B 2h11 4f17 3d11 1e11 1x{won}
+17. W 2d10 2x{kept} 1e10 1x{kept} 3h10
+18. B >h6{defl W1 d10} 4f19 2f9
+19. W 1e9 >h10 2f10 3h11
+20. B 3e12 1f12 2f7
+21. W 3i13 >i12 2h11 1f9
+22. B 1h13 2e7 3e14 4g18
+23. W 2i12 3i15 >g12 1f10 4f7
+24. B 2e6 3d16 4g17 1h14
+25. W 3h17 2i14 1f12 4f9
+26. B 4f15 2e4 1g14 3d18
+27. W 3f19 1f14 2i16 >h16{defl B1 e14} 4e11
+28. B 2e3 4e14 >g9{ok} 1f13 3c19
+29. W --
+30. B 2f3 1d13 3a19 4c14
+31. W 4f10 1f13 2i15 3g18
+32. B 2h2 1b13
+33. W 4f8 1g11
+34. B 2h1 1a14
+35. W 4f6 1g9
+36. B 2g1
+37. W 4f4 1g7
+38. B 1a15 4b15 3a18 2f1 #{goal}
+; goal B, 0-1
+L. W 1f10 2c10 3i10 4f6
+L. B 1f12 2i12 3c12 4f16
+39. W >f8 1f11 3h11 2d11 4f7
+40. B 2i11 3b13 4e17
+41. W 1g12 2f13 3h13 4g7
+42. B 2h10 1g11 4e19
+43. W 4i8 >i12 3i15 1g14 2f15
+44. B 1g9 3c14 4f19 2h8
+45. W 1g16 2e17 >g16 3i17
+46. B 1f9 2g8 3e16 4g19
+47. W 3h17 1g18 >f18
+48. B 1f8 3f17 2f9
+49. W 1f18 #{goal}
+; goal W, 1-1
+L. B 1f10 2i12 3c12 4f16
+L. W 1f9 2c8 3i8 4f5
+50. B 2h11 3d11 4f17 >c5{ok} 1e9
+51. W --
+52. B 1c7 2f11 3d10 4e19
+53. W --
+; ball out by B, W restarts
+L. W 1f10 2c10 3i10 4f6
+L. B 1f12 2i12 3c12 4f16
+54. W >f8 4f7 1f11 3h11 2d11
+55. B 2i11 3b13 4e17 1f13
+56. W 1g13 2e13 3h13 4g7
+57. B 2h10 4e19
+58. W 4i8 2f15 1g15 >i12 3i15
+59. B 1f14 2g10 3a14
+60. W 3i17 1g17 2f17
+61. B 4f19 1f16
+62. W 1g19 2f18 3j18 >h19
+63. B 1e17 2h11 3b13
+64. W #{goal}
+; goal W, 2-1
+L. B 1f10 2i12 3c12 4f16
+L. W 1f9 2c8 3i8 4f6
+65. B 2h11 3d11 4f17 >c5{ok} 1e9
+66. W --
+67. B 1c7 2f11 3d10 4e19
+68. W --
+; ball out by B, W restarts
+L. W 1f10 2c10 3i10 4f6
+L. B 1f12 2i12 3c12 4f16
+69. W >f8 1f11 2d11 3h11 4f7
+70. B 2i11 3b13 4e17 1f13
+71. W 1g13 2e13 3h13 4g7
+72. B 2h10 4e19
+73. W 4i8 >i12 3i15 1g15 2f15
+74. B 1f14 2g10 3a14
+75. W 2f17 1g17 3i17
+76. B 4f19 1f16
+77. W 2f18 1g19 3j18 >h19 4h7
+78. B 1f17 2h11 3b13
+79. W #{parried h17}
+80. B 1g17 2h13 3b12 4e18
+81. W 3i17 2f17 1g18 4g7
+82. B 2g15 1h17 >h12 3c12 4c18
+83. W 3h16 2f15 1g16 4g6
+84. B 3e11 1h18 4a19
+85. W 3h14 4h6 1h16 | {defl W4 i8}
+86. B 3g10 1g19 2f16
+87. W 3i12 1h15 2f14 4i7
+88. B 3h9 1e19 2d18 4a18
+89. W 4i8 #{caught}
+; the keeper of B caught the ball
+L. B 1f10 2i12 3c12 4f16
+L. W 1f9 2e9 3g9
+90. B #{caught}
+; the keeper of W caught the ball
+; half-time, 2-1
+L. B 1f10 2i12 3c12 4f16

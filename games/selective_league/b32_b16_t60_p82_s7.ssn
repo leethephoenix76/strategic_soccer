@@ -1,0 +1,18 @@
+[Event "selfplay"]
+[Date "2026.10.21"]
+[White "goal-sel-b32-t60"]
+[Black "goal-sel-b16-t60"]
+[Seed "7"]
+[Position "w 82 1-0 j8/k7 j11/i10 h6/i6 i10/i8 i7/j7 k11/j10 g12/g11 g16/g17 @W4 t:W"]
+[Result "*"]
+[EpisodeScore "1-0"]
+
+83. W >j11 4h12 1h10 3f7
+84. B 3g13 1g6 4h14 2k13
+85. W 2j10 1f12 4h13 3e8 >e8
+86. B 1f6
+87. W 3c9 1d14
+88. B 3f12 4g15 1e6
+89. W 3b11 2i11 4g14 >d16{ok} 1d16
+90. B 1c7 3d11 2j12 4e15 4x{won}
+; half-time, 1-0

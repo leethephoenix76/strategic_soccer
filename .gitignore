@@ -1,0 +1,27 @@
+# Builds and binaries
+build/
+*.obj
+*.pdb
+*.ilk
+*.exe
+
+# Server packages and results (kept locally; attach to releases when needed)
+*.tgz
+tournament*/
+results*/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Working pictures and drafts
+Claude outputs/
+
+# Games: only the records (.ssn); traces, logs and copied binaries stay local
+games/**
+!games/**/
+!games/**/*.ssn
+
+# Legacy: only the reference sources
+legacy/*.orig
+legacy/*.before_fixes

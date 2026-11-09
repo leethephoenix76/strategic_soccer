@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Win32-MSVC",
+            "includePath": ["${workspaceFolder}/src"],
+            "defines": ["WIN32", "_WINDOWS", "NOMINMAX", "WIN32_LEAN_AND_MEAN"],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,11 @@
+[Event "selfplay"]
+[Date "2026.10.21"]
+[White "goal-sel-b4-t60@0.02s"]
+[Black "goal-sel-b8-t60@0.02s"]
+[Seed "7"]
+[Position "w 82 1-0 j8/k7 j11/i10 h6/i6 i10/i8 i7/j7 k11/j10 g12/g11 g16/g17 @W4 t:W"]
+[Result "*"]
+[EpisodeScore "1-0"]
+
+83. W 2j13
+84. B 4h16

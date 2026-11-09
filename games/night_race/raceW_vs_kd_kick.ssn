@@ -1,0 +1,26 @@
+[Event "selfplay"]
+[Date "2026.10.24"]
+[White "goal-sel-run-race-b8-t90"]
+[Black "goal-sel-run-kd-b8-t90"]
+[Seed "7"]
+[Result "*"]
+[EpisodeScore "0-0"]
+
+L. W 1f10 2c8 3i8 4f4
+L. B 1f12 2i12 3c12 4f16
+1. W >c8 1g11 2b7 3h9 4f5
+2. B 4f17 3c11
+3. W 2b6 4g6 1g13 3f11 >e6
+4. B 1g11 2h11 4f19 3d11
+5. W 3d13 4i6 1f15
+6. B 3f12 1i9
+7. W 1d17 4j5 >f10{ok} 3c14 2c7
+8. B 4e19 2g10 1i7 | {defl B3 f13}
+9. W 2e7
+10. B 3f13 2g8 4e18 1h5 >g10
+11. W 2g7
+12. B 2f7 1g4
+13. W 2h8 1c18 3b15 4i5
+14. B >g4 1e2 2f5
+15. W 4g4 2h10
+16. B 2f3

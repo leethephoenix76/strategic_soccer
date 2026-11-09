@@ -1,0 +1,33 @@
+[Event "selfplay"]
+[Date "2026.10.23"]
+[White "goal-sel-run-rsb-b8-t90"]
+[Black "goal-sel-run-tt-b8-t90"]
+[Seed "7"]
+[Result "*"]
+[EpisodeScore "0-0"]
+
+L. W 1f10 2c8 3i8 4f4
+L. B 1f12 2i12 3c12 4f16
+1. W >d14{ok} 1e11 2c7
+2. B 1e12
+3. W 1c13
+4. B 1e13 4e17 2h11
+5. W 1a15
+6. B 1d15 4c19 3b11 2h10 >f14{defl B1 d16}
+7. W 1a16 2d7
+8. B 1d16
+9. W 4f3 1b16 2e7
+10. B >h11 1c16 2h11 3c10
+11. W 4f2 3h9 2g6 1c15
+12. B >f8{ok} 3d8
+13. W 1c14 2g5
+14. B 1b17 3e6 2g10 4d18
+15. W 2f4
+16. B 2g9 3f5
+17. W 4g3 2f3 1b15 3g8
+18. B 1a18 3f4 2f8 4e17 #{caught}
+; the keeper of W caught the ball
+L. W 1f10 2c8 3i8 4f4
+L. B 1f12 2i12 3c12 4f16
+19. W >d14{ok} 1e11 2c7
+20. B 1e12

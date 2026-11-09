@@ -1,0 +1,31 @@
+[Seed "1793342480"]
+[Event "game"]
+[Date "2026.10.30"]
+[White "human"]
+[Black "goal-sel-run-geo-cover-timed-ball-b8-t120"]
+[Result "*"]
+
+L. W 1f10 2c10 3i10 4f6
+L. B 1f12 2i12 3c12 4f16
+1. W >f7 4f5 1f11 3h11 2d11
+2. B --
+3. W 3h13 2f13 1g12 4g5
+4. B 2h11
+5. W 3i15 4i6 >i11 2f15 1g14
+6. B --
+7. W 1g16 2e16 3i17
+8. B 1f13 2g12 3d13 4f17
+9. W 1g18 2e17 3j18 >h18 4h6
+10. B 1f15 4f19 2f14
+11. W 1g19 #{parried e17}
+12. B 3e14 1f17 1x{won} >f14
+13. W 3i17 2e16 4g5
+14. B 4f18 >f12 2e15
+15. W 3h15 2f15 4f5
+16. B 1e16 3f13
+17. W 3h13 2g13 1g18
+18. B 1c14 2f14 4f17 3f11 >c11
+19. W 3g11 1g16 2h11
+20. B 3e9
+21. W 3e10 1f15 2h9 4e6
+; ball out by B, W restarts

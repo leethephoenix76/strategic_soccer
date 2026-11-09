@@ -1,0 +1,17 @@
+[Event "selfplay"]
+[Date "2026.10.21"]
+[White "goal-sel-b8-t60"]
+[Black "goal-sel-b4-t60"]
+[Seed "7"]
+[Position "w 147 1-1 i10/i12 j6/j8 i4/i6 g5/g7 i8/h10 k10 d7/d9 f3/h4 @B4 t:B"]
+[Result "*"]
+[EpisodeScore "1-1"]
+
+148. W 3h4 2i6 1h10 4f4 4x{loose f5}
+149. B 1i7 3e6 2j11 4d2
+150. W 1g11 2h7 4e4 3f5 >f10
+151. B 2h13 1h6 3f6 4b2
+152. W 1g13 2f9 3e5 4e3
+153. B 2f15 1g6 3g7 4a1 | {int B2}
+154. W 2f11 4f3 3e6 1f14 1x{kept}
+155. B >g15 1e7 2f16 3g9

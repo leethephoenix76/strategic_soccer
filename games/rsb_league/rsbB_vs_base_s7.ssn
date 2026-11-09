@@ -1,0 +1,33 @@
+[Event "selfplay"]
+[Date "2026.10.23"]
+[White "goal-sel-run-b8-t90"]
+[Black "goal-sel-run-rsb-b8-t90"]
+[Seed "7"]
+[Result "*"]
+[EpisodeScore "0-0"]
+
+L. W 1f10 2c8 3i8 4f4
+L. B 1f12 2i12 3c12 4f16
+1. W >d15{ok} 1e11
+2. B --
+3. W 1c13
+4. B 1e13
+; ball out by W, B restarts
+L. B 1f10 2i12 3c12 4f16
+L. W 1f8 2c8 3i8 4f4
+5. B >d6{defl W1 d10} 3c11 1f9
+6. W 2d9
+7. B 1e9 3d10 2h11 4e15 >e13
+8. W 1e8 3h8
+9. B 2g9 4c15
+10. W 3f7 4e3
+11. B 1f9
+12. W 1f8 3e5 4e2 2e8
+13. B 3e9 2h8 1g8 4d14
+14. W 4e1
+15. B 1h7 4f13 2j6 3f9
+16. W 3f6 4f1 2e9
+17. B 3f10 4h12 1h5
+18. W 3h6 1g9 2f9
+19. B 2i5 3g10 1g3 4h10 >g6{ok}
+20. W 1h9 3h5

@@ -1,0 +1,28 @@
+[Event "selfplay"]
+[Date "2026.10.24"]
+[White "goal-sel-run-kd-b8-t90"]
+[Black "goal-sel-run-race-b8-t90"]
+[Seed "7"]
+[Position "b 3 0-0 g12/f11 f13/d11 i13/i11 g7/f7 f12 h11/i12 c12 f16 @W4 t:W"]
+[Result "*"]
+[EpisodeScore "0-0"]
+
+4. B 1g11
+5. W 1h13 4i7
+6. B 4g15 1i9 3d11 2h12
+7. W 3j14 4j7 >j11 1h15 2e14
+8. B 2h14 1i8 3d9 4g14
+9. W 1g17 2e15 3j16 >h17 4j8
+10. B 2g16
+11. W 2f16 1g18 3i18
+12. B 1h7 2g17 2x{loose g19}
+; the keeper of B took the ball
+L. B 1f10 2i12 3c12 4f16
+L. W 1f8 2c8 3i8 4f4
+13. B >c12 2i11 3d13 1f9 4f15
+14. W 4f3 2d9 1e7 3h8
+15. B 2h10 3d15
+16. W 3g7 2e9 4f1 1e5
+17. B 4g14 2g9
+18. W 1f3 3e7 2e10 4e1
+19. B >g14 2g8 4h14 1f8 3e14

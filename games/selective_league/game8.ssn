@@ -1,0 +1,98 @@
+[Seed "1792909490"]
+[Event "game"]
+[Date "2026.10.25"]
+[White "human"]
+[Black "mcts"]
+[Result "*"]
+
+L. W 1f10 2c10 3i10 4f6
+L. B 1f12 2i12 3c12 4f16
+1. W >f8 1f11 2d11 3h11 4f7
+2. B 1f13 2h13 3d12 4f15
+3. W 1e12 3g13 4e8
+4. B 1f14 2g15 3d13
+5. W 1e14 2d12 3g14 4e10
+6. B 2g17 3d15 4f16
+7. W 1e16 2d14 3g15 4e11
+8. B 1f15 2g18 3d16 4f17
+9. W 1e18 3g16 2c15 4d13
+10. B 1e17 3d17
+11. W 2c17 3g17 4d14
+12. B 3d18
+13. W >c16 4e15 3h18
+14. B 2f19
+15. W 4g15 2d16 1f18 >f15
+16. B 1f16 3e18 4g18
+17. W 3g19 4i15 >g17 2f15
+18. B 1h15 3e19 | {ok}
+19. W 4i14 2h14 #{caught}
+; the keeper of B caught the ball
+L. B 1f10 2i12 3c12 4f16
+L. W 1f8 2c8 3i8 4f5
+20. B 4e15 1g10 >e15
+21. W 1e9 4g6
+22. B 2h11 4e13 >h11 1g9
+23. W 3h8 2d7
+24. B >h8 1x{kept} 2h9 3d12 4d13 2x{kept}
+25. W 1f10 4f7 >e8
+26. B 1f8 3f13
+27. W 1f12 2c8 >d10 4d9 3g9
+28. B 2g10 3f14 4e14
+29. W 3e11 4d11 2c10 >c12 1g13
+30. B 1g9 2g12 3e15
+31. W 2c12 4d13 3e13 1g15
+32. B 1h11 2g14 4f15
+33. W 1f16 4d15 3f14 2b14
+34. B 1h13 3e16
+35. W 1e17 4d16 2b16 >d18{ok}
+36. B 1h14 2g15 3f17 4g16
+; the keeper of B took the ball
+L. B 1f10 2i12 3c12 4f16
+L. W 1f8 2c8 3i8 4f5
+37. B 4e15 1g10 >e15
+38. W 1g9 4f6
+39. B 3d11 4d14 >d11 1i10
+40. W 2d9 1g10 4e8
+41. B 4b12 >b12
+42. W 1f10 4c8
+43. B --
+44. W 2d10 1e11 4c9
+45. B 2h11 4c13 >h11{ok} 1j10 3e12
+46. W 2e10 4d9
+47. B 2h9 #{caught}
+; the keeper of W caught the ball
+L. W 1f10 2c10 3i10 4f6
+L. B 1f12 2i12 3c12 4f16
+48. W >f8 1f11 2d11 3h11
+49. B 1f13 2h13 3d12 4g15
+50. W 1e12 3g13 4f7
+51. B 1e13 2h14 3d13
+52. W 3f15 1c12 2e12 4g9
+53. B 1e14 2g14 3d15 4f16
+54. W 2f14 4h11 3e16 1c13
+55. B 1e15 2g15 3d16 4f17
+56. W 2f16 3e18 4i13 1d14
+57. B 1f15 2g17 3e17
+58. W 3f18 2g16 1f16 4j15
+59. B 2h17 3e18
+60. W 2i16 1g17
+61. B 3f19
+62. W 1g19 2i17 4k16
+63. B 1g16 4e18
+64. W 2h18 4k18
+65. B 1g17 2i18 4e19
+66. W 2h19 4k19 3f17 >h16{defl B2 k19} 1h18
+67. B 1g19 2j19 3g18 2x{kept}
+68. W >j17{ok} 1j16
+69. B 4f19
+70. W 4j18
+71. B 2i19 4f18
+72. W 4h17 2h18 1i16 3e18
+73. B 1f19 2h19 4g16
+74. W 4g17 >i17 3e19
+75. B --
+76. W 1i17 4e17 >j18
+77. B 1g19 4h17
+78. W 3f18 1j18 >h16{defl B4 j19} 2i19
+79. B 2i18 4h18 2x{kept}
+80. W 3h16 1k18 2j19 >j15

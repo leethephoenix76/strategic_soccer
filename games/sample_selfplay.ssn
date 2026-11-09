@@ -1,0 +1,36 @@
+[Event "selfplay"]
+[Date "2026.10.15"]
+[White "full search, depth 1"]
+[Black "full search, depth 1"]
+[Seed "2026"]
+[Result "*"]
+
+L. W 1f10 2c8 3i8 4f4
+L. B 1f12 2i12 3c12 4f16
+1. W 1e11 2b9 3h9 4e5
+2. B 3d12 4f17 3x{kept} 1e12 1x{loose d10} 2h13
+3. W 1c11 2a11 3f11 4c7
+4. B 1d13 2f15 3d11 4e19
+5. W 1a12 3d12 4a9
+6. B 1b15 2d17 3d10 4c19
+7. W 1a14 2a12 3b14 4a11
+8. B 1a17 2b19 3e8 4b18
+9. W 1a16 2a14 3a15 4a13
+10. B 1a19 3f6 4a18
+11. W 1a17 2b15 3a16 4a15
+12. B 2b18 1b19 3f4 4a19 #{caught}
+; the keeper of W caught the ball
+L. W 1f10 2c8 3i8 4f4
+L. B 1f12 2i12 3c12 4f16
+13. W 1e11 2b9 3h9 4e5
+14. B 3d12 4f17 3x{loose c10} 1e13 2h13
+15. W 1c11 2a11 3f11 4c7
+16. B 1c15 2f15 3d13 4e19
+17. W 1c10 2a13 4a9 >f11 3e13
+18. B 3x{kept} 1a17 2e15 3e14
+19. W 1b10 2a15 3c15 4a11
+20. B 2d16 2x{kept} 1a19 3e16 4e18
+21. W 1a10 2a17 3c17 4a13
+22. B 4d18 4x{kept} 2c16 2x{kept} 3d17 3x{loose a15} 1b19
+23. W 1a11 2a19 3c19 4a15 >c19{ok}
+24. B 1x{loose a17} 1b18 2a17 3c18 4d17 >d17

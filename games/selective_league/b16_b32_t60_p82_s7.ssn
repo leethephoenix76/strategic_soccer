@@ -1,0 +1,21 @@
+[Event "selfplay"]
+[Date "2026.10.21"]
+[White "goal-sel-b16-t60"]
+[Black "goal-sel-b32-t60"]
+[Seed "7"]
+[Position "w 82 1-0 j8/k7 j11/i10 h6/i6 i10/i8 i7/j7 k11/j10 g12/g11 g16/g17 @W4 t:W"]
+[Result "*"]
+[EpisodeScore "1-0"]
+
+83. W 2k13 3g7 1h10 4j10 >g10{defl W1 f10}
+84. B 1g8 2k12 3f14 4h15
+85. W 1f10 >d15{ok} 2k15 3e9 4j11
+86. B 3d16 1e8 2j12 4h13 | {ok}
+87. W 2j17 1d11 3c11 4i12
+88. B --
+; ball out by W, B restarts
+L. B --
+L. W 1a10 2a9 3a8 4a7
+89. B 1j12 2j11 3j14 4j15
+90. W --
+; half-time, 1-0

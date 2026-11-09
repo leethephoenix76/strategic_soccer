@@ -1,0 +1,221 @@
+[Event "selfplay"]
+[Date "2026.10.18"]
+[White "mcts@20s"]
+[Black "mcts@5s"]
+[Seed "101"]
+[Result "2-0"]
+
+L. W 1f10 2c8 3i8 4f4
+L. B 1f12 2i12 3c12 4f16
+1. W 4g5 1e10 >g5
+2. B 1e12 2h13 4f15
+3. W --
+4. B 2g13 3d13 4f13
+5. W 3h9 4f4 >h9
+6. B 1d12 2g12 3f15
+7. W 3h11
+8. B 2h12 2x{kept} 4g12 4x{won} 1c11 >c11
+9. W 1d11 4f5 1x{won} 3i12
+10. B 2h13 3e15
+11. W 3i14 1d12 >i14{ok} 4e7
+12. B 2h14 3e16 4g13 2x{kept}
+13. W 3h16 #{goal}
+; goal W, 1-0
+L. B 1f10 2i12 3c12 4f16
+L. W 1f8 2c8 3i8 4f4
+14. B 3d11 1g9 >d11
+15. W 1f7 2d8 4g5
+16. B 1i7 3f9 >i7{ok}
+17. W 1f5 4i6 4x{won} >f5 3h9
+18. B 2h13
+19. W 1e5 4k8
+20. B 1i8 2f14 3f10 4f15
+21. W 2c9 1c5 >c9 3g8 4k10
+22. B 1i10 2d14 3f12
+23. W 1a6 2a11 >a6 3e8 4j12
+24. B 1h11 2d15 3g14 4f16
+25. W 3c9 1a8 >c9 2a13 4i14
+26. B 1g13 2c15 3g15
+27. W 2b15 3c11 >b15{ok} 1a10 4i16
+28. B 1e13 2c16 3g16 4f17
+29. W 2d15 #{goal}
+; goal W, 2-0
+L. B 1f10 2i12 3c12 4f16
+L. W 1f8 2c8 3i8 4f4
+30. B 3d11 1g9 >d11
+31. W 1f7 2d8 4g5
+32. B 1i7 3e10 >i7{ok}
+33. W 1f5 4i6 4x{kept} 2f7 3x{kept} 3h8
+34. B 3e8 1j7 >e8{int W2} 2h13 3x{kept} 4f15
+35. W 3f9 2g5 >f9{ok} 1e3 4i8
+36. B 1j8 2g13 4f14
+37. W 3d10 4h10
+38. B 1i9 2e13 3d9 3x{kept}
+39. W 4f11 3c12 >f11
+40. B 1g11 2d14 3b11 1x{kept} 4f15
+41. W 4f13 3b14
+42. B 1f12 2d16 4f17 1x{won}
+43. W 1e4 2f6 3a15
+44. B 3c10 1e12 >c10
+45. W 1e6 4f12
+46. B 1e13 3d10 >e13
+47. W 1e7 2f5 3a14 4f10
+48. B --
+49. W 3b12 4f9
+50. B 3e10 1f13 >e10
+51. W 3d10 4g7 3x{kept} 1e8
+52. B 3g9 1h12
+53. W 1f10 2g5 3f8 3x{won} >f10 4i7
+54. B 2e15 3h8 4f18
+55. W 1f11 >h8{ok} 2h6 3g8 3x{won} 4k8
+56. B 1g13
+57. W 1g12 >g12 4k10
+58. B 2f15 3i9 4g17
+59. W 2h7 >h7{ok} 1i12 3f9
+60. B 1h12 2f14 3i11
+61. W 2i7 1k12
+62. B 3i13
+63. W 3e10 2i8 >e10
+64. B 1g12 2e14
+65. W 2i10 3e11 >i10
+66. B 1g13 4f17
+67. W 4j10 2h12 >j10
+68. B 1g14 4f16
+69. W 2h14 4h10 >h14
+70. B 2e15 3h13 4g15 4x{loose h13} >e15{defl W2 j13}
+71. W 1j13 3e10 4h11 2h16 >h16{ok}
+72. B 1h15 2d16 1x{loose i18}
+73. W 2i18 3f10 4g11 #{caught}
+; the keeper of B caught the ball
+L. B 1f10 2i12 3c12 4f16
+L. W 1f8 2c8 3i8 4f4
+74. B 1f9
+75. W 2d7 4e5 1x{kept} 3h8
+76. B 3d11 1g9 >d11
+77. W 1g7 2e7
+78. B 3d9 1i10
+79. W 1g5 3i9
+80. B 3c8 1k10
+81. W 1f3 2d7 4d5 2x{kept} 3i11
+82. B 3c6 #{parried f4}
+83. W 1f2 2d6 4d4
+84. B 1j11 2h11 4g15
+85. W 1g2 2e4 3h10 4e3
+86. B 1h13 2f11 3d7 4g13
+87. W 1g1 2f4 4f3 >g1{ok} 3f8
+88. B 2e10 4h11
+89. W 3f6 1f1 >f6{defl W2 e4} 2g3
+90. B 1g12 3e8
+; half-time, 2-0
+L. B 1f10 2i12 3c12 4f16
+L. W 1f8 2c8 3i8 4f4
+91. B 3d11 1g9 >d11
+92. W 1g8 2d7 3h9
+93. B 3d9
+94. W 1g7 2e6 4e5
+95. B 3c7 1f9
+96. W 1f5 3g8 4c6 4x{won} >g8{int W2}
+97. B 1e10 2h12
+98. W 2f7 1d4 4a8
+99. B 1e12 2g12 3b8 4f15
+100. W 3f9 2f8 >f9 4a10
+101. B 1e13 2g11 3b10 4e14
+102. W 4a12 3e11 >a12
+103. B 1d14 3b12 3x{won}
+104. W 1e5 2f7 3c11 3x{kept} 4x{kept}
+105. B 4f13 3c12 >f13
+106. W 1g7 3c10
+107. B 3e11 4h11 >e11{int B2}
+108. W 1g9 2g8 3d9 4b11
+109. B 4j9 2h10 >j9
+110. W 2i8 3f9 4c10 2x{kept} 1g11
+111. B 4j7 #{caught}
+; the keeper of W caught the ball
+L. W 1f10 2c8 3i8 4f4
+L. B 1f12 2i12 3c12 4f16
+112. W 4g5 1e10 >g5
+113. B 1e12 2h13 4f15
+114. W 4g7
+115. B 2g13 3d13 4f14
+116. W 3h9 4f7 >h9
+117. B 1f13 2g12
+118. W 1d11 3f9 >d11
+119. B 2f12 3c12 4e14 3x{won} >f12 1h13
+120. W 3f8 4f6
+121. B 1j12 >j12 3b10
+122. W 1d10 2c7 3g8
+123. B 2g11 1k11 >g11
+124. W 1d8
+125. B 1k9 2i10 >k9
+126. W 1e6 2d6 3h7 4g6
+127. B 4f13 1j8 >f13{ok}
+128. W 1g5 2e5 3h6
+129. B 3c9 4h11 >c9 1h8
+130. W 1g4 4f5
+131. B 3e7
+132. W 2e6 3g5 4f4 2x{kept} 1g3
+133. B 1i7 3g7 >i7 4g10
+134. W 1h3 2f7 3g4
+135. B 1i5 #{caught}
+; the keeper of W caught the ball
+L. W 1f10 2c8 3i8 4f4
+L. B 1f12 2i12 3c12 4f16
+136. W 3h9 1e11 >h9
+137. B 1f13 2h12 4e15
+138. W 1c13 3h10 >c13{ok}
+139. B 4d13 2g13 1e14 3x{won} 3d12 >e14{ok}
+140. W 2d8 3g10 4e5
+141. B 1d15 >g13{ok} 3d11 4b11
+142. W 1d12 2d9 3e9
+143. B 2h13 >d15
+144. W 1f10 3e7
+145. B 3e10 1e15 >e10
+146. W 1f9 2e9 2x{loose f9} 4d6 >d6{ok} 3f5
+147. B 1f14 2g12 3f10 4c10
+148. W 1g7 4b7 >g7 2e8 3h4
+149. B 2f12
+150. W 1i7
+151. B 1g15 4d11
+152. W 2f7 1k8 >f7
+153. B 2g12 3f11 4e12
+154. W 4a8 >a8 1k10
+155. B 1g14 2h13 3f13 4e13
+156. W 4a10 1j12
+157. B 2h15 3e15 4d15
+158. W 2f8 4a11 >f8
+159. B 3e17
+160. W 4a13 2f9 >a13
+161. B 1f15 2g15 3d17 4e16
+162. W 2f11 4b13 >f11
+163. B 1f16 3d18
+164. W 4c13 2e11 >c13
+165. B 1f18 2g16 3e19
+166. W 4e13 2c12
+167. B 2f17 4f15
+168. W 4e14 #{caught}
+; the keeper of B caught the ball
+L. B 1f10 2i12 3c12 4f16
+L. W 1f8 2c8 3i8 4f4
+169. B 3d11 1g9 >d11
+170. W 1f7 2d8 4g5
+171. B 1i7 3e9 >i7{ok}
+172. W 1f5 4i6 4x{kept} 2f7 3x{kept} 3j7
+173. B 2h11 >h11
+174. W 1g5 2f6
+175. B 3f8 >f8 1h8
+176. W 1g6 3i7 4h6
+177. B 3f7 #{caught}
+; the keeper of W caught the ball
+L. W 1f10 2c8 3i8 4f4
+L. B 1f12 2i12 3c12 4f16
+178. W 1e11 #{caught}
+; the keeper of B caught the ball
+L. B 1f10 2i12 3c12 4f16
+L. W 1f8 2c8 3i8 4f4
+179. B 1g9 #{caught}
+; the keeper of W caught the ball
+L. W 1f10 2c8 3i8 4f4
+L. B 1f12 2i12 3c12 4f16
+180. W 1e11 #{caught}
+; the keeper of B caught the ball
+; match over, 2-0

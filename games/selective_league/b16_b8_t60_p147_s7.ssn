@@ -1,0 +1,18 @@
+[Event "selfplay"]
+[Date "2026.10.21"]
+[White "goal-sel-b16-t60"]
+[Black "goal-sel-b8-t60"]
+[Seed "7"]
+[Position "w 147 1-1 i10/i12 j6/j8 i4/i6 g5/g7 i8/h10 k10 d7/d9 f3/h4 @B4 t:B"]
+[Result "*"]
+[EpisodeScore "1-1"]
+
+148. W 3h4 1h10 2i5 4g3 4x{loose f5}
+149. B 3e6 1i7 2j11 4d3
+150. W 3f5 >h10 1f11 4g2 2g5
+151. B 1h7 2h13
+152. W 3f7 2g6 4f2 1d13 >f16
+153. B 2f15 1f8 3d7 4c4
+154. W 1d15 2f6 3e8 4d3
+155. B --
+; the keeper of B took the ball

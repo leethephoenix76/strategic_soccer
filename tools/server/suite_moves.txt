@@ -1,0 +1,9 @@
+g7_02b_defence|1f13 2h12 3d12 4f15 end
+g7_03w_control|1e12 4e9 2d13 3f13 end
+g7_30b_episode|3c12 4c8 >c3 2b3 1f3 end
+g2_148w_longpass|>g8 2i6 3g2 1j11 end
+g9_04b_defence|2f14 3c13 end
+g9_16b_risk|4h10 1c5 2k5 >f8 end
+g9_17w_b5_fixed|2d4 1f3 3g3 4i7 end
+tree_13w_pass|3h14 >h19 1i17 end
+g8_47b_midfield|3g12 4e13 >i11 2g9 1k9 end

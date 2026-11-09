@@ -1,0 +1,35 @@
+[Event "selfplay"]
+[Date "2026.10.24"]
+[White "goal-sel-b8-t90"]
+[Black "goal-sel-run-race-b8-t90"]
+[Seed "7"]
+[Position "w 82 1-0 j8/k7 j11/i10 h6/i6 i10/i8 i7/j7 k11/j10 g12/g11 g16/g17 @W4 t:W"]
+[Result "*"]
+[EpisodeScore "1-1"]
+
+83. W 1j9 2j13 4j11 3f7 >e15{ok}
+84. B --
+85. W 1i11
+86. B 1h8
+; ball out by W, B restarts
+L. B 1f10 2i12 3c12 4f16
+L. W 1f8 2c8 3i8 4f4
+87. B >c12 3d11
+88. W 1f7 2d9 3h9
+89. B 1f11 2h13 3e9 4f17 #{goal}
+; goal B, 1-1
+L. W 1f10 2c8 3i8 4f4
+L. B 1f12 2i12 3c12 4f16
+90. W 1e11 #{caught}
+; the keeper of B caught the ball
+; half-time, 1-1
+L. B 1f10 2i12 3c12 4f16
+L. W 1f8 2c8 3i8 4f4
+91. B >c12 2i11 3d13 1f9 4f15
+92. W 2d9 4f3
+93. B 2h9 3f14 1e8 4e14
+94. W 2e11 1f9 3h7 4f1
+95. B 1c8 3f16 4e12
+96. W 2f12 3f5 1f11
+97. B >d12{ok} 3e16 1c9 2h8 4e11
+98. W 1g12

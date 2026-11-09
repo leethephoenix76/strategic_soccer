@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "seed": 7,
+  "sources": {
+    "games/selective_league/game7.ssn": "6cf5b098795a60cfd259884077db306f1785cf1689596d2e6e72b688a3a6ebb0",
+    "games/selective_league/game8.ssn": "2c0fe09009e6d6f744692f7ab960e6f43b338c2ae98bd4ff8f0286a0d3c1f9e7",
+    "games/selective_league/game9.ssn": "95d3ca4e5596d87274beda8d57e7cc579ef72eb75d3e94cb67b1f9bc2ebb48af",
+    "games/tree_match/treeW_vs_ep_kick.ssn": "7b3b96d32b8cca05a0aecab73724872e955ffbb483c10db447f7995a05e2220e",
+    "tests/fixtures/g9_17w_b5_fixed.ssn": "71d5e4b4f2ae60c15f9bbe2d29f7c7f04dcdb34b5ac7c82acb4099bc4bb06f52"
+  },
+  "cases": [
+    {
+      "id": "g7_02b_defence",
+      "tier": "core",
+      "source": "games/selective_league/game7.ssn",
+      "turn": "2.B",
+      "action_index": 16,
+      "position": "b 1 0-0 f11/f10 d11/c10 h11/i10 f7/f6 f12 i12 c12 f16 @f8,0,-1,0 t:Wp",
+      "theme": "defensive positioning before white runners break through"
+    },
+    {
+      "id": "g7_03w_control",
+      "tier": "core",
+      "source": "games/selective_league/game7.ssn",
+      "turn": "3.W",
+      "action_index": 19,
+      "position": "w 2 0-0 f11/f10 d11/c10 h11/i10 f7/f6 f12 i11/i12 c12 f17/f16 @W4 t:W",
+      "theme": "ordinary attack control"
+    },
+    {
+      "id": "g7_11w_episode",
+      "tier": "extended",
+      "source": "games/selective_league/game7.ssn",
+      "turn": "11.W",
+      "action_index": 55,
+      "position": "w 10 0-0 f18/f16 e19/f17 h14/i15 h8/i8 h10 e11/f10 f15 f17/g17 @W2 t:W",
+      "theme": "small attacking episode near goal"
+    },
+    {
+      "id": "g7_30b_episode",
+      "tier": "extended",
+      "source": "games/selective_league/game7.ssn",
+      "turn": "30.B",
+      "action_index": 139,
+      "position": "b 29 1-0 f10 e2/e4 g11/g12 e11/e12 d3/c5 b5/b7 e14/f16 e10/f11 @B2 t:B",
+      "theme": "small attacking episode with moving defender"
+    },
+    {
+      "id": "g7_38b_shot",
+      "tier": "core",
+      "source": "games/selective_league/game7.ssn",
+      "turn": "38.B",
+      "action_index": 176,
+      "position": "b 37 1-0 f3/f5 g1/g2 h3/h5 e3/e5 d3 d1/c2 b15 g3/g4 @B2 t:B",
+      "theme": "shot versus inflated free-ball continuation"
+    },
+    {
+      "id": "g9_04b_defence",
+      "tier": "core",
+      "source": "games/selective_league/game9.ssn",
+      "turn": "4.B",
+      "action_index": 23,
+      "position": "b 3 0-0 e12/f11 d13/d11 f13/h11 e8/f7 f12 h13/i12 c12 f16 @W4 t:W",
+      "theme": "defensive line and pass behind defender"
+    },
+    {
+      "id": "g9_16b_risk",
+      "tier": "extended",
+      "source": "games/selective_league/game9.ssn",
+      "turn": "16.B",
+      "action_index": 91,
+      "position": "b 15 1-0 f4/e6 e5/e7 h5/h7 i6/g6 d7/e8 i7/h9 f7/f9 h11/g13 @B4 t:B",
+      "theme": "counterattack risk after committing attackers"
+    },
+    {
+      "id": "g9_17w_b5_fixed",
+      "tier": "core",
+      "source": "tests/fixtures/g9_17w_b5_fixed.ssn",
+      "turn": "17.W",
+      "action_index": 0,
+      "position": "w 16 1-0 f4/e6 e5/e7 h5/h7 i6/g6 d5/d7 j6/i7 g6/f7 h9/h11 @b5,0,0,1 t:B",
+      "theme": "fixed b5 deflection before White 17.W; synthetic comparison root"
+    },
+    {
+      "id": "tree_13w_pass",
+      "tier": "core",
+      "source": "games/tree_match/treeW_vs_ep_kick.ssn",
+      "turn": "13.W",
+      "action_index": 63,
+      "position": "w 12 0-0 j16/j14 h18/g16 h13/g13 e14/e12 a7 i15/j13 f14/f13 g16/g15 @W2 t:W",
+      "theme": "near-goal pass overvaluation versus shot"
+    },
+    {
+      "id": "tree_21w_goal",
+      "tier": "extended",
+      "source": "games/tree_match/treeW_vs_ep_kick.ssn",
+      "turn": "21.W",
+      "action_index": 96,
+      "position": "w 20 0-0 j19/k19 g18/h17 d17/f16 b18/c18 c7 i14 f19/f17 h18 @W4 t:W",
+      "theme": "crowded goal area and delayed shot"
+    },
+    {
+      "id": "g8_47b_midfield",
+      "tier": "core",
+      "source": "games/selective_league/game8.ssn",
+      "turn": "47.B",
+      "action_index": 220,
+      "position": "b 46 0-0 e11 e10/d10 i8 d9/c9 j10/i10 h11/i12 e12/d11 c13/b12 @B2 t:B",
+      "theme": "midfield attack, low-probability shot versus possession"
+    }
+  ]
+}

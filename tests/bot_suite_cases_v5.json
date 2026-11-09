@@ -1,0 +1,124 @@
+{
+  "schema": 1,
+  "seed": 7,
+  "sources": {
+    "games/selective_league/game7.ssn": "6cf5b098795a60cfd259884077db306f1785cf1689596d2e6e72b688a3a6ebb0",
+    "games/selective_league/game8.ssn": "2c0fe09009e6d6f744692f7ab960e6f43b338c2ae98bd4ff8f0286a0d3c1f9e7",
+    "games/selective_league/game9.ssn": "95d3ca4e5596d87274beda8d57e7cc579ef72eb75d3e94cb67b1f9bc2ebb48af",
+    "games/tree_match/treeW_vs_ep_kick.ssn": "7b3b96d32b8cca05a0aecab73724872e955ffbb483c10db447f7995a05e2220e",
+    "tests/fixtures/g2_148w_longpass.ssn": "f3913808e19b13abd4b7778de284ae5a8052a439bd8d4c0ab6d34ea63d5cf338",
+    "tests/fixtures/g9_17w_b5_fixed.ssn": "71d5e4b4f2ae60c15f9bbe2d29f7c7f04dcdb34b5ac7c82acb4099bc4bb06f52",
+    "tests/fixtures/g9_19w_b4_d6.ssn": "9e9c09cd38c32b04bb358a92f485e7690cdab3c2353de86bc12011727d7cb931",
+    "tests/fixtures/g8_49b_b3_ball.ssn": "76a13d1950c2640d7010c8f5d54ca4891b25626b7316596895eb0240c0d83e62"
+  },
+  "cases": [
+    {
+      "id": "g7_02b_defence",
+      "tier": "core",
+      "source": "games/selective_league/game7.ssn",
+      "turn": "2.B",
+      "action_index": 16,
+      "position": "b 1 0-0 f11/f10 d11/c10 h11/i10 f7/f6 f12 i12 c12 f16 @f8,0,-1,0 t:Wp",
+      "theme": "defensive positioning before white runners break through"
+    },
+    {
+      "id": "g7_03w_control",
+      "tier": "core",
+      "source": "games/selective_league/game7.ssn",
+      "turn": "3.W",
+      "action_index": 19,
+      "position": "w 2 0-0 f11/f10 d11/c10 h11/i10 f7/f6 f12 i11/i12 c12 f17/f16 @W4 t:W",
+      "theme": "ordinary attack control"
+    },
+    {
+      "id": "g7_28b_delivery",
+      "tier": "core",
+      "source": "games/selective_league/game7.ssn",
+      "turn": "28.B",
+      "action_index": 129,
+      "position": "b 27 1-0 f10/f9 e4/e5 g12 e12 c5/c6 b7/c8 f16/f17 f11 @B4 t:B",
+      "theme": "delivery to the runners after W1's failed tackle on B4 at 27.W: B4 in midfield, B1 and B2 on the left against the lone W2 (game: >b7, 2b5, 1d3, then 2 vs 1); replaces g7_30b_episode"
+    },
+    {
+      "id": "g7_38b_shot",
+      "tier": "core",
+      "source": "games/selective_league/game7.ssn",
+      "turn": "38.B",
+      "action_index": 176,
+      "position": "b 37 1-0 f3/f5 g1/g2 h3/h5 e3/e5 d3 d1/c2 b15 g3/g4 @B2 t:B",
+      "theme": "shot versus inflated free-ball continuation"
+    },
+    {
+      "id": "g2_148w_longpass",
+      "tier": "core",
+      "source": "tests/fixtures/g2_148w_longpass.ssn",
+      "turn": "148.W",
+      "action_index": 0,
+      "position": "w 147 1-1 i10 j6/j8 h2/i4 g3/g5 i8/h10 k10 d7/d9 f3/h4 @W4 t:W",
+      "theme": "pass and run behind the defence after a won tackle (synthetic start from game2 148.W; W1 standing)"
+    },
+    {
+      "id": "g9_04b_defence",
+      "tier": "core",
+      "source": "games/selective_league/game9.ssn",
+      "turn": "4.B",
+      "action_index": 23,
+      "position": "b 3 0-0 e12/f11 d13/d11 f13/h11 e8/f7 f12 h13/i12 c12 f16 @W4 t:W",
+      "theme": "defensive line and pass behind defender"
+    },
+    {
+      "id": "g9_16b_risk",
+      "tier": "extended",
+      "source": "games/selective_league/game9.ssn",
+      "turn": "16.B",
+      "action_index": 91,
+      "position": "b 15 1-0 f4/e6 e5/e7 h5/h7 i6/g6 d7/e8 i7/h9 f7/f9 h11/g13 @B4 t:B",
+      "theme": "counterattack risk after committing attackers"
+    },
+    {
+      "id": "g9_17w_b5_fixed",
+      "tier": "core",
+      "source": "tests/fixtures/g9_17w_b5_fixed.ssn",
+      "turn": "17.W",
+      "action_index": 0,
+      "position": "w 16 1-0 f4/e6 e5/e7 h5/h7 i6/g6 d5/d7 j6/i7 g6/f7 h9/h11 @b5,0,0,1 t:B",
+      "theme": "fixed b5 deflection before White 17.W; synthetic comparison root"
+    },
+    {
+      "id": "g9_19w_counter",
+      "tier": "core",
+      "source": "tests/fixtures/g9_19w_b4_d6.ssn",
+      "turn": "19.W",
+      "action_index": 0,
+      "position": "w 18 1-0 g4/f4 d4/e5 h5 i5/i6 c4/d5 j4/j6 g6 d6/d8 @d3 t:B",
+      "theme": "synthetic start from game9 19.W (B4 moved from g8/h9 to d6/d8, running down and out of the play; B3 on g6 without inertia as in the game - the only defender who can get back, 2 vs 1 by the reach map): counterattack after a lost ball - W2 picks up the loose ball at d3, delivery to W1 and W3 running behind (game: >g4, >i6, goal at 35.W); checks danger detection by the map, delivery by rough ball trajectories and the exact final episode"
+    },
+    {
+      "id": "tree_13w_pass",
+      "tier": "core",
+      "source": "games/tree_match/treeW_vs_ep_kick.ssn",
+      "turn": "13.W",
+      "action_index": 63,
+      "position": "w 12 0-0 j16/j14 h18/g16 h13/g13 e14/e12 a7 i15/j13 f14/f13 g16/g15 @W2 t:W",
+      "theme": "near-goal pass overvaluation versus shot"
+    },
+    {
+      "id": "g8_47b_midfield",
+      "tier": "core",
+      "source": "games/selective_league/game8.ssn",
+      "turn": "47.B",
+      "action_index": 220,
+      "position": "b 46 0-0 e11 e10/d10 i8 d9/c9 j10/i10 h11/i12 e12/d11 c13/b12 @B2 t:B",
+      "theme": "midfield attack, low-probability shot versus possession"
+    },
+    {
+      "id": "g8_49b_delivery",
+      "tier": "core",
+      "source": "tests/fixtures/g8_49b_b3_ball.ssn",
+      "turn": "49.B",
+      "action_index": 0,
+      "position": "b 48 0-0 e10/e11 g11/e10 j7/i8 d9 k9/j10 g9/h11 g12/e12 e13/c13 @i11,0,0,1 t:Bp",
+      "theme": "synthetic: g8_47b after the saved black move 3g12 4e13 >i11 2g9 1k9 (B2 left the ball to B3 and runs to goal with B1) and the default bot's reply 2g11 3j7 1e10 (90 s); B3 picks up the ball on i11 - when and where to give it to B1/B2 against the overloaded W3; g8_47b_midfield stays as the control"
+    }
+  ]
+}
