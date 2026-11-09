@@ -2,6 +2,10 @@
 
 Новые записи — сверху. Каждая запись: что сделано, решения, открытые вопросы, следующий шаг.
 
+## 2026-11-09 — git: локальный репозиторий для GitHub
+
+Решение пользователя: залить проект на `https://github.com/leethephoenix76/strategic_soccer.git`. В папке проекта создан репозиторий (ветка `main`, `origin` — этот адрес; `core.fileMode false`, `core.autocrlf false`; автор — `valery <leethephoenix76@users.noreply.github.com>`). `.gitignore`: `build/`, объектные файлы и бинарники, `*.tgz`, папки турнира и результатов, `__pycache__`, `Claude outputs/`, в `games/` — только `.ssn`, в `legacy/` — без `.orig`/`.before_fixes`. Первый коммит — 243 файла (исходники, тесты и наборы v1–v5, `tools/`, `docs/`, скрипты сборки и запуска, `.vscode/`, партии). Push из Linux-окружения Claude невозможен (нет учётных данных GitHub) — пользователь делает `git push -u origin main` у себя.
+
 ## 2026-11-09 — опытный `-pkr-ra-`: решение по среднему двух последних глубин
 
 Предложение (правило «только после ответа» оставить для корня, но не терять глубину 3): `selectiveRootDepthAverage`, бот `goal-sel-run-geo-cover-timed-rbr-ext2w-pkr-ra-b8-t…`; бот по умолчанию не менялся.
